@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#e0c3fc"/>
+      <stop offset="100%" stop-color="#a084ee"/>
+    </radialGradient>
+  </defs>
+  <circle cx="32" cy="32" r="32" fill="url(#bg)"/>
+  <path d="M44 32a12 12 0 1 1-12-12c0 6.627 5.373 12 12 12z" fill="#3d315e"/>
+  <circle cx="48" cy="20" r="2" fill="#fff"/>
+  <circle cx="18" cy="44" r="1.2" fill="#fff"/>
+  <circle cx="40" cy="48" r="1.5" fill="#fff"/>
+  <circle cx="26" cy="18" r="1" fill="#fff"/>
+  <!-- Estrella reemplazada -->
+  <polygon points="54,32.8 54.7,34.2 56.2,34.3 55,35.2 55.4,36.7 54,35.9 52.6,36.7 53,35.2 51.8,34.3 53.3,34.2" fill="#fff"/>
+  <g>
+    <circle cx="54" cy="34" r="1.2" fill="#fff"/>
+    <circle cx="10" cy="28" r="0.8" fill="#fff"/>
+  </g>
+</svg> 

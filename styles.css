@@ -247,4 +247,15 @@ body {
         width: 100%;
         max-width: 320px;
     }
+    .services ul {
+        flex-direction: column;
+        gap: 1.2rem;
+    }
+    .services li {
+        padding: 2rem 1rem;
+        font-size: 1.1rem;
+        width: 100%;
+        min-width: 0;
+        box-sizing: border-box;
+    }
 }
